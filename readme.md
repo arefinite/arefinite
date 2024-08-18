@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arefin.dev](https://arefin.dev)
 
-- 📫 How to reach me **arefinite@gmail.com**
+- 📫 How to reach me **thearefindev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
